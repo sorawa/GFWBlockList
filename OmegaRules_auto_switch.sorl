@@ -1,0 +1,31 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2022/9/8
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+*.google.com
+*.google.com.hk
+*.google*
+*.gmail.*
+*.doubleclick.net
+*.googleusercontent.*
+*.github.com
+*.githubusercontent.com
+*.zendesk.com
+*.gravatar.com
+*.wikipedia.org
+*.apkpure.com
+*.reddit.com
+*.youtube.com
+*.ycombinator.com
+*.medium.com
+*.chotot.com
+*.tiktok.com
+files.slack.com/
+*.fb.me
+*.facebook.com
+*.fbcdn.net
+*.google-analytics.com
+*.googletagmanager.com
+*.facebook.net
+*.appspot.com
